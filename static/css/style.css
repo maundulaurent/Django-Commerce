@@ -148,7 +148,7 @@ Override some default bootstrap stylings
 --------------------------------------------------------------*/
 #low-header,
 #main {
-  padding: 20px 30px;
+  padding: 10px 30px;
   transition: all 0.3s;
 }
 
@@ -669,7 +669,7 @@ Header Nav
   top:60px;
   left: 0;
   bottom: 0;
-  width: 300px;
+  width: 250px;
   z-index: 996;
   transition: all 0.3s;
   padding: 20px;
